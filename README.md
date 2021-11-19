@@ -1,6 +1,8 @@
 API -> https://fakestoreapi.com/docs
 
-![] (images/fake1.png)
+<img src="images/fake1.png />
+
+![](images/fake1.png)
 
 ![] (images/fake3.png)
 
