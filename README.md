@@ -1,1 +1,1 @@
-Created with React and Redux Toolkit.
+API -> https://fakestoreapi.com/docs
